@@ -1,0 +1,35 @@
+Relation between course & student ( many to many )
+
+1- A student can enroll for multiple course
+2- A single course can have multiple students
+
+
+Relation between passport & student ( one to one )
+
+1- A student can have only one passport
+2- A passport can be associated with only one student
+
+
+Relation between course & review ( one to many )
+
+1- A single course can have multiple reviews
+
+
+sql
+=====
+show tables;
+select * from passport;
+select * from student;
+select * from student,passport where student.passport_id=passport.id;
+select * from course;
+select * from course_review;
+drop table course_review;
+drop table course;
+delete from hibernate_sequence;
+SET SQL_SAFE_UPDATES = 0;
+drop database jparepo
+
+select * from
+student_course,student,course
+where student_course.student_id=student.id
+and student_course.course_id=course.id;

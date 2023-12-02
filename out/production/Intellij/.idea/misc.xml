@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/customer-service/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-world/hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-consumer/kafka-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-producer/kafka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/loan-service/loan-service/pom.xml" />
+        <option value="$PROJECT_DIR$/aws-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-batch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-neo4j/pom.xml" />
+        <option value="$PROJECT_DIR$/dummy-test/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven-sample/Intellipaat-maven/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
