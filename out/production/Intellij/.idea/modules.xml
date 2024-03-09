@@ -2,20 +2,36 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IBMTest/IBMTest.iml" filepath="$PROJECT_DIR$/IBMTest/IBMTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Intellij.iml" filepath="$PROJECT_DIR$/.idea/Intellij.iml" />
       <module fileurl="file://$PROJECT_DIR$/Maven-sample/Intellipaat-maven/Intellipaat-maven.iml" filepath="$PROJECT_DIR$/Maven-sample/Intellipaat-maven/Intellipaat-maven.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java11Test/Java11Test.iml" filepath="$PROJECT_DIR$/Java11Test/Java11Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8Test/Java8Test.iml" filepath="$PROJECT_DIR$/Java8Test/Java8Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/aws-springboot/aws-springboot.iml" filepath="$PROJECT_DIR$/aws-springboot/aws-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aws-sql/aws-sql.iml" filepath="$PROJECT_DIR$/aws-sql/aws-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codingninja/codingninja.iml" filepath="$PROJECT_DIR$/codingninja/codingninja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer/consumer.iml" filepath="$PROJECT_DIR$/consumer/consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" filepath="$PROJECT_DIR$/currency-conversion-service/currency-conversion-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" filepath="$PROJECT_DIR$/currency-exchange-service/currency-exchange-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/customer-service/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/customer-service/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastrcture/datastrcture.iml" filepath="$PROJECT_DIR$/datastrcture/datastrcture.iml" />
       <module fileurl="file://$PROJECT_DIR$/dummy-test/dummy-test.iml" filepath="$PROJECT_DIR$/dummy-test/dummy-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hello-world/hello-world/hello-world.iml" filepath="$PROJECT_DIR$/hello-world/hello-world/hello-world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-naming-server/eureka-naming-server.iml" filepath="$PROJECT_DIR$/eureka-naming-server/eureka-naming-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-latest-features-17/java-latest-features-17.iml" filepath="$PROJECT_DIR$/java-latest-features-17/java-latest-features-17.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpa-springboot/jpa-springboot.iml" filepath="$PROJECT_DIR$/jpa-springboot/jpa-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-consumer/kafka-consumer/kafka-consumer.iml" filepath="$PROJECT_DIR$/kafka-consumer/kafka-consumer/kafka-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-producer/kafka-producer/kafka-producer.iml" filepath="$PROJECT_DIR$/kafka-producer/kafka-producer/kafka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loan-customer-service/loan-customer-service.iml" filepath="$PROJECT_DIR$/loan-customer-service/loan-customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loan-details-service/loan-details-service.iml" filepath="$PROJECT_DIR$/loan-details-service/loan-details-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/loan-service/loan-service/loan-service.iml" filepath="$PROJECT_DIR$/loan-service/loan-service/loan-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logicmojo/logicmojo.iml" filepath="$PROJECT_DIR$/logicmojo/logicmojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms/ms/ms.iml" filepath="$PROJECT_DIR$/ms/ms/ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prcatice/prcatice.iml" filepath="$PROJECT_DIR$/prcatice/prcatice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producer/producer.iml" filepath="$PROJECT_DIR$/producer/producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sony/sony.iml" filepath="$PROJECT_DIR$/sony/sony.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-batch/spring-batch.iml" filepath="$PROJECT_DIR$/spring-batch/spring-batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-neo4j/spring-boot-neo4j.iml" filepath="$PROJECT_DIR$/spring-boot-neo4j/spring-boot-neo4j.iml" />
     </modules>

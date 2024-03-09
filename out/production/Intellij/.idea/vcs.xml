@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/Intellipaat-maven" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/aws-springboot-jenkins" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/aws-springboot/aws-springboot-jenkins" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Intellipaat-maven" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Java8Test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Maven-sample" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/aws-springboot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aws-springboot-jenkins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aws-springboot/aws-springboot-jenkins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-naming-server" vcs="Git" />
   </component>
 </project>
