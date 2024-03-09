@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="helloworld" />
+        <module name="customer-service" />
+        <module name="kafka-consumer" />
+        <module name="ms" />
+        <module name="kafka-producer" />
+        <module name="Intellipaat-maven" />
+        <module name="aws-sql" />
+        <module name="aws-springboot" />
+        <module name="jpa-springboot" />
+        <module name="loan-customer-service" />
+        <module name="currency-conversion-service" />
+        <module name="eureka-naming-server" />
+        <module name="loan-service" />
+        <module name="api-gateway" />
+        <module name="producer" />
+        <module name="currency-exchange-service" />
+        <module name="spring-batch" />
+        <module name="spring-boot-neo4j" />
+        <module name="dummy-test" />
+        <module name="loan-details-service" />
+        <module name="consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="17" />
+      <module name="aws-springboot" target="1.8" />
+      <module name="aws-sql" target="17" />
+      <module name="consumer" target="17" />
+      <module name="currency-conversion-service" target="11" />
+      <module name="currency-exchange-service" target="11" />
+      <module name="customer-ms" target="17" />
+      <module name="customer-service" target="17" />
+      <module name="dummy-test" target="17" />
+      <module name="eureka-naming-server" target="17" />
+      <module name="hello-world" target="11" />
+      <module name="helloworld" target="17" />
+      <module name="Intellipaat-maven" target="1.7" />
+      <module name="jpa-springboot" target="11" />
+      <module name="kafka-consumer" target="11" />
+      <module name="kafka-producer" target="11" />
+      <module name="loan-customer-service" target="17" />
+      <module name="loan-details-service" target="17" />
+      <module name="loan-service" target="11" />
+      <module name="ms" target="17" />
+      <module name="producer" target="17" />
+      <module name="spring-batch" target="17" />
+      <module name="spring-boot-neo4j" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api-gateway" options="-parameters" />
+      <module name="aws-springboot" options="-parameters" />
+      <module name="aws-sql" options="-parameters" />
+      <module name="consumer" options="-parameters" />
+      <module name="currency-conversion-service" options="-parameters" />
+      <module name="currency-exchange-service" options="-parameters" />
+      <module name="customer-ms" options="-parameters" />
+      <module name="customer-service" options="-parameters" />
+      <module name="dummy-test" options="-parameters" />
+      <module name="eureka-naming-server" options="-parameters" />
+      <module name="hello-world" options="-parameters" />
+      <module name="helloworld" options="-parameters" />
+      <module name="jpa-springboot" options="-parameters" />
+      <module name="kafka-consumer" options="-parameters" />
+      <module name="kafka-producer" options="-parameters" />
+      <module name="loan-customer-service" options="-parameters" />
+      <module name="loan-details-service" options="-parameters" />
+      <module name="loan-service" options="-parameters" />
+      <module name="ms" options="-parameters" />
+      <module name="producer" options="-parameters" />
+      <module name="spring-batch" options="-parameters" />
+      <module name="spring-boot-neo4j" options="-parameters" />
+    </option>
+  </component>
+</project>
